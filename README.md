@@ -1,10 +1,10 @@
-# Hello, I'm Cheikh 👋
+# Hello, I'm Cheikh Mbengue 👋
 
 ## About Me
 
 I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
 
-I work as the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager and Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to provide a much-needed, world-class ESM and to develop the tools to decimate the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
+I am the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager and Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to provide a much-needed, world-class ESM and to develop the tools to decimate the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
 
 🔭 **Currently Working On:**
 
@@ -20,7 +20,7 @@ I work as the lead Research and Engineering Scientist at [Elizabeth Consulting I
 
 👯 **Looking to Collaborate on:**
 
-- Projects to deliver actionable climate information to a multiplicity of users
+- Projects to deliver actionable climate information to a diversity of users
 - Projects to develop frontend apps that deliver weather and climate intelligence
 
 🎓 **Fun Fact:**
@@ -37,7 +37,7 @@ I work as the lead Research and Engineering Scientist at [Elizabeth Consulting I
 - Interpreted (JIT) Languages: Python, Julia
 - Web development: Django, HTML, CSS, JavaScript
 - Compiled: C++, Fortran
-- Prorpietary: Matlab, Mathematica
+- Proprietary: Matlab, Mathematica
 - Version Control: Git, GitHub
 - Misc: Regex, Linux, MacOS, VSCode, AppSheet
 
@@ -49,15 +49,9 @@ I work as the lead Research and Engineering Scientist at [Elizabeth Consulting I
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cmbengue-ec-intl)
-
----
-
 ## 📫 How to Reach Me
 
-Feel free to reach out if you want to collaborate on a project, or if you need project management advice. Here's where you can find me:
+Feel free to let me know if you want to collaborate on a project or if you need project management advice. Here's where you can find me:
 
 - Email: [cmbengue@ec-intl.com](mailto:cmbengue@ec-intl.com)
 - LinkedIn: [cmbengue](https://www.linkedin.com/in/cmbengue/)
