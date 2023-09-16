@@ -18,10 +18,12 @@ I am the lead Research and Engineering Scientist at [Elizabeth Consulting Intern
 - Ruby and Ruby on Rails
 - To upgrade my cloud integration and deployment skills
 
-👯 **Looking to Collaborate on:**
+👯 **Collaborations:**
 
-- Projects to deliver actionable climate information to a diversity of users
-- Projects to develop frontend apps that deliver weather and climate intelligence
+I am open to collaborations that complement my current work:
+
+- Projects that deliver actionable climate information to a diversity of users
+- Projects that develop frontend apps that deliver weather and climate information
 
 🎓 **Fun Fact:**
 
