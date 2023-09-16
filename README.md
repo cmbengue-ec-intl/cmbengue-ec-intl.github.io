@@ -4,7 +4,7 @@
 
 I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
 
-I am the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager and Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to provide a much-needed, world-class ESM and to develop the tools to decimate the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
+I am the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager and Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to mangage the on-time delivery of a much-needed, world-class ESM and to develop the tools to decimate the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
 
 🔭 **Currently Working On:**
 
