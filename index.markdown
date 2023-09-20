@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+![Cheikh Mbengue](/img/img1.jpg)
+
+**Cheikh O Mbengue, PhD**
