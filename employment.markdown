@@ -4,44 +4,66 @@ title: Employment
 permalink: /employment/
 ---
 
-## Corporate Appointments
+## [Elizabeth Consulting International Inc.](https://www.ec-intl.com)
 
-2022 - present: Elizabeth Consulting International LLC, New Hampshire, U.S.A.
-*Managing Member*
+### Position: Managing Director | Engineering Scientist
 
-2020 - present: Elizabeth Consulting International Inc., Castries, Saint Lucia
-*Managing Director*
+#### Duration: 2020 - Present
 
-## Industrial Employment
+#### Location: Castries, Saint Lucia
 
-2020 - present: [Elizabeth Consulting International Inc.](https://www.ec-intl.com), Castries, Saint Lucia
-*Engineering Scientist*
+## [Climate Modeling Alliance](clima.caltech.edu)
 
-2021 - present: [Climate Modeling Alliance](clima.caltech.edu), California, U.S.A
-*Project Manager*
+### Position: Project Manager | Research Scientist
 
-## Academic Employment
+#### Duration: 2021 - Present
 
-2021 - present: [California Institute of Technology](https://www.caltech.edu), California, U.S.A
-*Research Scientist*
+#### Location: Castries, Saint Lucia
 
-2018 - 2020:    [University of Oxford](https://www.physics.ox.ac.), Oxford, United Kingdom
-*Visiting Researcher*
+## [University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics)
 
-2015 - 2018:    [University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics), Oxford, United Kingdom
-*Postdoctoral Research Assistant*
+### Position: Postdoctoral Research Assistant | Visiting Researcher
 
-2015 - 2015:    [ETH-Zurich](https://ethz.ch/en.html), Zurich, Switzerland
-*Postdoctoral Researcher*
+#### Duration: 2015 - 2020
 
-2009 - 2009:    [Monroe College](https://www.monroecollege.edu/st-lucia-degree-programs), Castries, Saint Lucia
-*Lecturer*
+#### Location: Oxford, United Kingdom
 
-2000 - 2002:    [St. Mary&#39;s College](https://en.wikipedia.org/wiki/Saint_Mary%27s_College_(Saint_Lucia)), Castries, Saint Lucia
-*High School Teacher*
+## [ETH-Zurich](https://ethz.ch/en.html)
 
-## Internships
+### Position: Postdoctoral Researcher
 
-2005 - 2005:    [Organization of the Eastern Caribbean States](https://www.oecs.org/en/), Castries, Saint Lucia
+#### Duration: 2015 - 2015
 
-2004 - 2004:    The Royal Saint Lucia Police Force, Marine Unit, Vigie, Saint Lucia
+#### Location: Zurich, Switzerland
+
+## [Monroe College](https://www.monroecollege.edu/st-lucia-degree-programs)
+
+### Position: Lecturer
+
+#### Duration: 2009 - 2009
+
+#### Location: Castries, Saint Lucia
+
+## [St. Mary&#39;s College](https://en.wikipedia.org/wiki/Saint_Mary%27s_College_(Saint_Lucia))
+
+### Position: High School Teacher
+
+#### Duration: 2000 - 2002
+
+#### Location: Castries, Saint Lucia
+
+## [Organization of the Eastern Caribbean States](https://www.oecs.org/en/),
+
+### Position: Summer Intern
+
+#### Duration: 2005 - 2005
+
+#### Location: Castries, Saint Lucia
+
+## The Royal Saint Lucia Police Force, Marine Unit
+
+### Position: Summer Intern
+
+#### Duration: 2004 - 2004
+
+#### Location: Castries, Saint Lucia
