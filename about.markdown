@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates.
+![Cheikh Mbengue](/img/img1.jpg)
+**Cheikh O Mbengue, PhD**
+
+Hi! Welcome to my website. I've included a blog page here, so do check back periodically for updates.
 
 ![Pitons](/img/img2.jpg)
 

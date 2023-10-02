@@ -4,13 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-### Peer-reviewed Publications
+## Peer-reviewed Publications
 
-#### 2030 - 2020
+### 2030 - 2020
 
 Woollings, T., C. Li, M. Drouard, E. Dunn-Sigouin, K. A. Elmestekawy, M. Hell, B. Hoskins, **C.O. Mbengue**, M. Patterson, T. Spengler, 2023: **The role of Rossby waves in polar weather and climate**. *Weather and Climate Dynamics*, **4**, 1, 61-80.
 
-#### 2010 - 2020
+### 2010 - 2020
 
 Dacre, H.F., O. Martinez-Alvarado, **C.O. Mbengue**, 2019: **Linking atmospheric rivers, precipitation and extratropical cyclone airflows**. *Journal of Hydrometeorology*, **20**, 6, 1183-1196.
 
@@ -32,7 +32,7 @@ Woollings, T., L. Papritz, **C.O. Mbengue**, T. Spengler, 2016: **Diabatic heati
 
 **Mbengue, C.O.**, and T. Schneider, 2013: **Storm track shifts under climate change: what can be learned from large-scale dry dynamics**. *Journal of Climate*, **26**, 9923-9930, doi: 10.1175/JCLI-D-13-00404.1.
 
-### Academic Theses
+## Academic Theses
 
 **Mbengue, C.O.**, 2015: **Storm track response to perturbations in climate**. Ph.D. Thesis, Graduate Aerospace Laboratories, California Institute of Technology.
 
