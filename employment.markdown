@@ -8,19 +8,25 @@ permalink: /employment/
 
 #### Location: Castries, Saint Lucia
 
-2020 - Present: Managing Director | Engineering Scientist
+2020 - Present: Managing Director
+
+2020 - Present: Engineering Scientist
 
 ### [Climate Modeling Alliance](clima.caltech.edu)
 
 #### Location: Pasadena, California (Remote)
 
-2021 - Present: Project Manager | Research Scientist
+2021 - Present: Project Manager
+
+2021 - Present: Research Scientist
 
 ### [University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics)
 
 #### Location: Oxford, United Kingdom
 
-2015 - 2020: Postdoctoral Research Assistant | Visiting Researcher
+2018 - 2020: Visiting Researcher
+
+2015 - 2018: Postdoctoral Research Assistant
 
 ### [ETH-Zurich](https://ethz.ch/en.html)
 
