@@ -4,66 +4,50 @@ title: Employment
 permalink: /employment/
 ---
 
-## [Elizabeth Consulting International Inc.](https://www.ec-intl.com)
-
-### Position: Managing Director | Engineering Scientist
-
-#### Duration: 2020 - Present
+### [Elizabeth Consulting International Inc.](https://www.ec-intl.com)
 
 #### Location: Castries, Saint Lucia
 
-## [Climate Modeling Alliance](clima.caltech.edu)
+2020 - Present: Managing Director | Engineering Scientist
 
-### Position: Project Manager | Research Scientist
+### [Climate Modeling Alliance](clima.caltech.edu)
 
-#### Duration: 2021 - Present
+#### Location: Pasadena, California (Remote)
 
-#### Location: Castries, Saint Lucia
+2021 - Present: Project Manager | Research Scientist
 
-## [University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics)
-
-### Position: Postdoctoral Research Assistant | Visiting Researcher
-
-#### Duration: 2015 - 2020
+### [University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics)
 
 #### Location: Oxford, United Kingdom
 
-## [ETH-Zurich](https://ethz.ch/en.html)
+2015 - 2020: Postdoctoral Research Assistant | Visiting Researcher
 
-### Position: Postdoctoral Researcher
-
-#### Duration: 2015 - 2015
+### [ETH-Zurich](https://ethz.ch/en.html)
 
 #### Location: Zurich, Switzerland
 
-## [Monroe College](https://www.monroecollege.edu/st-lucia-degree-programs)
+2015 - 2015: Postdoctoral Researcher
 
-### Position: Lecturer
-
-#### Duration: 2009 - 2009
+### [Monroe College](https://www.monroecollege.edu/st-lucia-degree-programs)
 
 #### Location: Castries, Saint Lucia
 
-## [St. Mary&#39;s College](https://en.wikipedia.org/wiki/Saint_Mary%27s_College_(Saint_Lucia))
+2009 - 2009: Lecturer
 
-### Position: High School Teacher
-
-#### Duration: 2000 - 2002
+### [St. Mary&#39;s College](https://en.wikipedia.org/wiki/Saint_Mary%27s_College_(Saint_Lucia))
 
 #### Location: Castries, Saint Lucia
 
-## [Organization of the Eastern Caribbean States](https://www.oecs.org/en/),
+2000 - 2002: High School Teacher
 
-### Position: Summer Intern
-
-#### Duration: 2005 - 2005
+### [Organization of the Eastern Caribbean States](https://www.oecs.org/en/)
 
 #### Location: Castries, Saint Lucia
 
-## The Royal Saint Lucia Police Force, Marine Unit
+2005 - 2005: Summer Intern
 
-### Position: Summer Intern
-
-#### Duration: 2004 - 2004
+### The Royal Saint Lucia Police Force, Marine Unit
 
 #### Location: Castries, Saint Lucia
+
+2004 - 2004: Summer Intern
