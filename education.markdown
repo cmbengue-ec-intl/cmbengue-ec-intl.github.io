@@ -18,7 +18,7 @@ permalink: /education/
 
 2007 - 2008: MSc in [Criminology and Criminal Justice](https://www.law.ox.ac.uk/centres-institutes/centre-criminology)
 
-2006 - 2007: MSc in [Global Governance and Diplomacy](http://www.qeh.ox.ac.uk/study/courses/mscggd)
+2006 - 2007: MSc in [Global Governance and Diplomacy](https://www.qeh.ox.ac.uk/node/19)
 
 ### [United States Military Academy](http://www.westpoint.edu/)
 
