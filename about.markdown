@@ -4,11 +4,22 @@ title: About Me
 permalink: /about/
 ---
 
-![Pitons](/img/img2.jpg)
-
-Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates.
-
-I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coase of Saint Lucia. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
+<table>
+    <tr>
+        <td>
+            <!-- Image on the left -->
+            <img src="/img/img2.jpg" alt="The Pitons, St. Lucia." width="300" />
+        </td>
+        <td>
+            <p>
+                Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates.
+            </p>
+            <p>
+                I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coase of Saint Lucia. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
+            </p>
+        </td>
+    </tr>
+</table>
 
 My interest in computers and computer technology started when I was introduced to a computer running on an Intel 80286 16-bit microprocessor with MS-DOS. Although I used computers then for standard tasks like word processing, spreadsheets, and database management, I was primarily interested in gaming. My interests have grown and evolved since then, particularly in designing and programming innovative solutions to existing and future problems.
 
