@@ -31,7 +31,7 @@ A: This stream of research seeks to understand whether and how changes in tropic
 **Q: How does one tackle this type of question?**
 A: It is tricky because the climate system is coupled, so one must carefully disentangle causes and effects. We separate potential influences by using a hierarchy of mathematical models to represent the minimum number of essential processes. We use these models to test our hypotheses and gradually build scientific theories. Generally, we use statistical methods to identify potential drivers of known effects or modes of variability in an observed record. Once we've identified a possible driver, a hypothesis is devised that links the cause and effect. Then, we use statistical methods or the hierarchy of models to test the hypothesis.
 
-### Summary of research
+### Summary of Tropical-Extratropical Interactions Research
 
 We noticed that the North Atlantic and European sector seasonal-forecast skill is better in winter than in summer for some forecast variables in weather and climate models. Hence, we seek to understand why this is the case and devise methods to improve the seasonal-forecast skill in models. We analyzed the eddy-driven jet's sensitivity to diabatic heating during the summertime. Our results showed that the summer jet responds to a broad range of heating and that it also responds to heating in the tropics (see Baker et al., 2017)--an extratropical response to tropical forcing. Our investigations have also shown notable differences in the feedback associated with diabatic heating in the east versus west Atlantic (Woollings et. al, 2016).
 
