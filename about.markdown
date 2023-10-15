@@ -6,7 +6,7 @@ permalink: /about/
 
 !["The Pitons of Saint Lucia."](/img/img2.jpg)
 
-Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates. I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coase of Saint Lucia.
+Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates. I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coast of Saint Lucia.
 
 While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment. My interest in computers and computer technology started when I was introduced to a computer running on an Intel 80286 16-bit microprocessor with MS-DOS. Although I used computers then for standard tasks like word processing, spreadsheets, and database management, I was primarily interested in gaming. My interests have grown and evolved since then, particularly in designing and programming innovative solutions to existing and future problems.
 
