@@ -10,21 +10,21 @@ permalink: /publications/
 
 Woollings, T., C. Li, M. Drouard, E. Dunn-Sigouin, K. A. Elmestekawy, M. Hell, B. Hoskins, **C.O. Mbengue**, M. Patterson, T. Spengler, 2023: **The role of Rossby waves in polar weather and climate**. *Weather and Climate Dynamics*, **4**, 1, 61-80.
 
-[**[PDF]**](/pdf/Wooetal23.pdf)
+[**[PDF]**](/pdf/wooetal23.pdf)
 
 ### 2010 - 2020
 
 Dacre, H.F., O. Martinez-Alvarado, **C.O. Mbengue**, 2019: **Linking atmospheric rivers, precipitation and extratropical cyclone airflows**. *Journal of Hydrometeorology*, **20**, 6, 1183-1196.
 
-[**[PDF]**](/pdf/Dacetal18.pdf)
+[**[PDF]**](/pdf/dacetal18.pdf)
 
 Baker, H.S., T. Woollings, **C.O. Mbengue**, M.R. Allen, C.H. O’Reilly, H. Shiogama, S. Sparrow, 2019: **Forced summer stationary waves: the opposing effects of direct radiative forcing and sea surface warming**. *Climate Dynamics*, **53**, 7-8, 4291-4306.
 
-[**[PDF]**](/pdf/bakeretal19.pdf)
+[**[PDF]**](/pdf/Baketal19.pdf)
 
 **Mbengue, C.O.**, T. Woollings, 2019: **The eddy-driven jet and storm-track responses to boundary-layer drag: insights from an idealized, dry GCM study**. *Journal of the Atmospheric Sciences*, **76**, 4, 1055-1076, doi:10.1175/JAS-D-18-0086.1.
 
-[**[PDF]**](/pdf/MW_jas_2018.pdf)
+[**[PDF]**](/pdf/MW18.pdf)
 
 **Mbengue, C.O.**, T. Woollings, H. Dacre, K. Hodges, 2018: **The roles of static stability and tropical-extratropical interactions in the summer interannual variability of the North Atlantic sector**. *Climate Dynamics*, **52**, 1299, doi:10.1007/s00382-018-4192-5.
 
