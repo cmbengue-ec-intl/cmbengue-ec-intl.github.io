@@ -33,3 +33,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+
+# Jekyll 3.9 uses the Logger API from before Ruby 3.3.
+gem "logger", "~> 1.5.0"

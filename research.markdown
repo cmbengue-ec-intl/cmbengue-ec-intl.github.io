@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+## Climate Modeling and Scientific Software
+
+At CliMA, I support Earth system model development through project management and model-product leadership. I also work with model hierarchies to study atmospheric processes across scales and levels of complexity.
+
+I coauthored the 2026 paper [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014). The paper describes the model’s formulation, numerical methods, and computational scaling; my contribution was in project administration.
+
 ## Midlatitude Storm Tracks and Climate Change
 
 **Q: What are midlatitude storm tracks?**
