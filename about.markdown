@@ -6,13 +6,15 @@ permalink: /about/
 
 !["The Pitons of Saint Lucia."](/img/img2.jpg)
 
-Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates. I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coast of Saint Lucia.
+I’m Cheikh, a climate and Earth-system scientist, engineer, and research leader based in Castries, Saint Lucia. I founded and lead [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and serve as Project Manager, Research Scientist, and Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) at Caltech.
 
-While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment. My interest in computers and computer technology started when I was introduced to a computer running on an Intel 80286 16-bit microprocessor with MS-DOS. Although I used computers then for standard tasks like word processing, spreadsheets, and database management, I was primarily interested in gaming. My interests have grown and evolved since then, particularly in designing and programming innovative solutions to existing and future problems.
+My research focuses on atmospheric circulation, storm tracks, and the connections between tropical and extratropical climate. Alongside that research, I work on scientific software, climate-data systems, and practical information for engineers, planners, and researchers. My growing focus is climate risk and adaptation in small island developing states.
 
-I have worked on various science, engineering, and business software products. I code primarily in Python but have built or contributed to C++, Fortran, and JavaScript software. As an engineer by training, I use a customer-centric product development approach and an iterative, test-driven product development life cycle.
+I enjoy bringing scientific and software teams together around a clear question, a useful product, and a shared definition of what it means to finish the work. My approach combines iterative development, explicit acceptance criteria, and PRINCE2 Agile project-management principles.
 
-Today, I work as a Research and Engineering Scientist at Elizabeth Consulting International Inc. Also, I am the project manager and model products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA). At CliMA, I led a software team that developed a web application that delivers projections of climate design conditions for building design and engineering applications. I also employ Prince2 Agile project management principles and processes to keep the CliMA project on track.
+I have served on the Commonwealth Caribbean Rhodes Scholarship selection committee and review research for scientific journals. In January 2026, I led a session at the SIDSCI workshop mapping climate challenges facing island communities.
+
+In 2026, I served as a chapter reviewer for Working Group I of the IPCC Seventh Assessment Report. On 12 October, I gave an invited presentation at the Chinese University of Hong Kong on connecting climate models to adaptation decisions, with a focus on confidence, uncertainty, and the gaps between scientific information and its use.
 
 I enjoy playing video games, reading non-fiction books, and spending time with my family and friends in my spare time. I also like to play cricket, practice karate, and run. Finally, I enjoy listening to classical music, playing my viola, and visiting museums.
 
@@ -20,11 +22,11 @@ I enjoy playing video games, reading non-fiction books, and spending time with m
 
 ### Select Awards
 
-2009 : Donald Willis Fellowship
+2009 : Donald Wills Douglas Fellowship, California Institute of Technology
 
 2006 : Dennis H. Mahan Award
 
-2005 : [The Commonwealth Caribbean Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/)
+2006 : [The Commonwealth Caribbean Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/)
 
 2005 : The Cadet Roger A. Herndon Memorial Award
 
