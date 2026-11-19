@@ -14,6 +14,8 @@ I enjoy bringing scientific and software teams together around a clear question,
 
 I have served on the Commonwealth Caribbean Rhodes Scholarship selection committee and review research for scientific journals. In January 2026, I led a session at the SIDSCI workshop mapping climate challenges facing island communities.
 
+In 2026, I served as a chapter reviewer for Working Group I of the IPCC Seventh Assessment Report. On 12 October, I gave an invited presentation at the Chinese University of Hong Kong on connecting climate models to adaptation decisions, with a focus on confidence, uncertainty, and the gaps between scientific information and its use.
+
 I enjoy playing video games, reading non-fiction books, and spending time with my family and friends in my spare time. I also like to play cricket, practice karate, and run. Finally, I enjoy listening to classical music, playing my viola, and visiting museums.
 
 ***

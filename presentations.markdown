@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Presentations, Seminars, and Industry Talks
 
+Mbengue, C.O., T. Schneider, and collaborators, 2026: **From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps**. Invited presentation, Risk I — Adaptation Risk, State of the Art, *Climate Adaptation: Risk Analysis and Governance Uptake*, Chinese University of Hong Kong, Hong Kong, 12 October 2026.
+
 Mbengue, C.O., 2022: **Climate Modeling 2.0: An introduction to the CliMA ESM**, Water Utility Climate Alliance, USA.
 
 Mbengue, C.O., 2017: **Storm Track Dynamics**, Risk Management Solutions (RMS), London, UK.
