@@ -8,17 +8,17 @@ permalink: /employment/
 
 #### Location: Castries, Saint Lucia
 
-2020 - Present: Managing Director
+2020 - Present: Founder and Managing Director
 
 2020 - Present: Engineering Scientist
 
-### [Climate Modeling Alliance](clima.caltech.edu)
+### [Climate Modeling Alliance](https://clima.caltech.edu)
 
 #### Location: Pasadena, California (Remote)
 
-2021 - Present: Project Manager
+2022 - Present: Project Manager
 
-2021 - Present: Research Scientist
+2021 - Present: Research Scientist and Model Products Lead
 
 ### [University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics)
 

@@ -4,15 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-!["The Pitons of Saint Lucia."](/img/img2.jpg)
+![The Pitons of Saint Lucia](/img/img2.jpg)
 
-Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates. I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coast of Saint Lucia.
+I am Cheikh, a climate scientist and engineer based in Castries, Saint Lucia. I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and the Project Manager, a Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech.
 
-While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment. My interest in computers and computer technology started when I was introduced to a computer running on an Intel 80286 16-bit microprocessor with MS-DOS. Although I used computers then for standard tasks like word processing, spreadsheets, and database management, I was primarily interested in gaming. My interests have grown and evolved since then, particularly in designing and programming innovative solutions to existing and future problems.
+My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions. At CliMA, I led a software team that developed a [web application](https://ecodesign.clima.caltech.edu) that delivers projections of climate design conditions for building design and engineering applications. Recently, I have been exploring avenues in climate risk for small island developing states.
 
-I have worked on various science, engineering, and business software products. I code primarily in Python but have built or contributed to C++, Fortran, and JavaScript software. As an engineer by training, I use a customer-centric product development approach and an iterative, test-driven product development life cycle.
+I code primarily in Python but have built or contributed to C++, Fortran, and JavaScript software. I hold the PRINCE2 Agile Foundation certificate, and I apply PRINCE2 Agile project management principles and processes in managing the CliMA project.
 
-Today, I work as a Research and Engineering Scientist at Elizabeth Consulting International Inc. Also, I am the project manager and model products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA). At CliMA, I led a software team that developed a web application that delivers projections of climate design conditions for building design and engineering applications. I also employ Prince2 Agile project management principles and processes to keep the CliMA project on track.
+I have served on the Commonwealth Caribbean Rhodes Scholarship selection committee. I review manuscripts for the Journal of the Atmospheric Sciences, Journal of Climate, Journal of Applied Meteorology and Climatology, Nature Geoscience, Climate Dynamics, Journal of Advances in Modeling Earth Systems, Journal of Geophysical Research, and Geophysical Research Letters. In January 2026, at a workshop for researchers and scientists from small island developing states, I led a session mapping the climate-related challenges facing small islands across the Caribbean, the Indian Ocean, and the Pacific.
+
+In 2026, I took part in the expert review of the First Order Draft of the Working Group I contribution to the IPCC Seventh Assessment Report. On October 12, 2026, I gave a lead presentation, "From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps," at the Workshop on Climate Adaptation: Risk Analysis and Governance Uptake at the Chinese University of Hong Kong.
 
 I enjoy playing video games, reading non-fiction books, and spending time with my family and friends in my spare time. I also like to play cricket, practice karate, and run. Finally, I enjoy listening to classical music, playing my viola, and visiting museums.
 
@@ -20,11 +22,11 @@ I enjoy playing video games, reading non-fiction books, and spending time with m
 
 ### Select Awards
 
-2009 : Donald Willis Fellowship
+2009 : Donald Wills Douglas Fellowship, California Institute of Technology
 
 2006 : Dennis H. Mahan Award
 
-2005 : [The Commonwealth Caribbean Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/)
+2006 : [The Commonwealth Caribbean Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/)
 
 2005 : The Cadet Roger A. Herndon Memorial Award
 
