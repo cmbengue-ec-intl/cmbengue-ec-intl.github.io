@@ -4,17 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-!["The Pitons of Saint Lucia."](/img/img2.jpg)
+![The Pitons of Saint Lucia](/img/img2.jpg)
 
-I’m Cheikh, a climate and Earth-system scientist, engineer, and research leader based in Castries, Saint Lucia. I founded and lead [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and serve as Project Manager, Research Scientist, and Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) at Caltech.
+I am Cheikh, a climate scientist and engineer based in Castries, Saint Lucia. I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and the Project Manager, a Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech.
 
-My research focuses on atmospheric circulation, storm tracks, and the connections between tropical and extratropical climate. Alongside that research, I work on scientific software, climate-data systems, and practical information for engineers, planners, and researchers. My growing focus is climate risk and adaptation in small island developing states.
+My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions. At CliMA, I led a software team that developed a [web application](https://ecodesign.clima.caltech.edu) that delivers projections of climate design conditions for building design and engineering applications. Recently, I have been exploring avenues in climate risk for small island developing states.
 
-I enjoy bringing scientific and software teams together around a clear question, a useful product, and a shared definition of what it means to finish the work. My approach combines iterative development, explicit acceptance criteria, and PRINCE2 Agile project-management principles.
+I code primarily in Python but have built or contributed to C++, Fortran, and JavaScript software. I hold the PRINCE2 Agile Foundation certificate, and I apply PRINCE2 Agile project management principles and processes in managing the CliMA project.
 
-I have served on the Commonwealth Caribbean Rhodes Scholarship selection committee and review research for scientific journals. In January 2026, I led a session at the SIDSCI workshop mapping climate challenges facing island communities.
+I have served on the Commonwealth Caribbean Rhodes Scholarship selection committee. I review manuscripts for the Journal of the Atmospheric Sciences, Journal of Climate, Journal of Applied Meteorology and Climatology, Nature Geoscience, Climate Dynamics, Journal of Advances in Modeling Earth Systems, Journal of Geophysical Research, and Geophysical Research Letters. In January 2026, at a workshop for researchers and scientists from small island developing states, I led a session mapping the climate-related challenges facing small islands across the Caribbean, the Indian Ocean, and the Pacific.
 
-In 2026, I served as a chapter reviewer for Working Group I of the IPCC Seventh Assessment Report. On 12 October, I gave an invited presentation at the Chinese University of Hong Kong on connecting climate models to adaptation decisions, with a focus on confidence, uncertainty, and the gaps between scientific information and its use.
+In 2026, I took part in the expert review of the First Order Draft of the Working Group I contribution to the IPCC Seventh Assessment Report. On October 12, 2026, I gave a lead presentation, "From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps," at the Workshop on Climate Adaptation: Risk Analysis and Governance Uptake at the Chinese University of Hong Kong.
 
 I enjoy playing video games, reading non-fiction books, and spending time with my family and friends in my spare time. I also like to play cricket, practice karate, and run. Finally, I enjoy listening to classical music, playing my viola, and visiting museums.
 
