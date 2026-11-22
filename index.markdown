@@ -5,8 +5,8 @@ layout: default
   <div>
     <p class="eyebrow">Castries, Saint Lucia</p>
     <h1>Cheikh Oumar<br>Mbengue<span>, PhD</span></h1>
-    <p class="lead">Climate scientist and engineer</p>
-    <p>I am the founder and Managing Director of Elizabeth Consulting International Inc., and the Project Manager, a Research Scientist, and the Model Products Lead at the Climate Modeling Alliance at Caltech. My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions.</p>
+    <p class="lead">Climate scientist</p>
+    <p>I am the founder and Managing Director of Elizabeth Consulting International Inc., and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the Climate Modeling Alliance at Caltech. My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions.</p>
     <div class="actions"><a class="button" href="{{ '/research/' | relative_url }}">Research</a><a href="{{ '/publications/' | relative_url }}">Publications</a><a href="mailto:{{ site.email }}">Email</a></div>
   </div>
   <figure><img src="{{ '/img/img1.jpg' | relative_url }}" alt="Cheikh Mbengue" fetchpriority="high"></figure>
