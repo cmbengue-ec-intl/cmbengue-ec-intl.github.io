@@ -10,10 +10,9 @@ Links below lead to the publisher or institutional record. Full-text access vari
 
 ### 2020–present
 
-Yatunin, D., et al. (including **C. Mbengue**), 2026: **The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling**. *Journal of Advances in Modeling Earth Systems*, **18**, e2025MS005014.
+Yatunin, D., S. Byrne, C. Kawczynski, S. Kandala, G. Bozzola, A. Sridhar, Z. Shen, A. Jaruga, J. Sloan, J. He, D.Z. Huang, V. Barra, R. Chew, A. Boral, Y. Chen, O. Knoth, P. Ullrich, **C. Mbengue**, T. Schneider, 2026: **The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling**. *Journal of Advances in Modeling Earth Systems*, **18**, e2025MS005014.
 
 [**Official Version**](https://doi.org/10.1029/2025MS005014) · [**Open-access PDF**](https://clima.caltech.edu/wp-content/uploads/2026/03/J-Adv-Model-Earth-Syst-2026-Yatunin-The-Climate-Modeling-Alliance-Atmosphere-Dynamical-Core.pdf)
-
 
 Woollings, T., C. Li, M. Drouard, E. Dunn-Sigouin, K. A. Elmestekawy, M. Hell, B. Hoskins, **C.O. Mbengue**, M. Patterson, T. Spengler, 2023: **The role of Rossby waves in polar weather and climate**. *Weather and Climate Dynamics*, **4**, 1, 61-80.
 
