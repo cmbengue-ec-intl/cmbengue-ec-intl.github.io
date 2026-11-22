@@ -16,7 +16,7 @@ permalink: /employment/
 
 #### Location: Pasadena, California (Remote)
 
-2021 - Present: Project Manager
+2022 - Present: Project Manager
 
 2021 - Present: Research Scientist and Model Products Lead
 
