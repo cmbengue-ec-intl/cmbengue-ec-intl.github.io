@@ -21,7 +21,7 @@
 title: Cheikh O Mbengue
 email: cmbengue@ec-intl.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Climate scientist and engineer in Castries, Saint Lucia.
+  Climate scientist in Castries, Saint Lucia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cmbengue-ec-intl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: combengue
