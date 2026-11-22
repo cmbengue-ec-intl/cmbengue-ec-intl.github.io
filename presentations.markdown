@@ -6,7 +6,7 @@ permalink: /presentations/
 
 ## Invited Presentations, Seminars, and Industry Talks
 
-Mbengue, C.O., T. Schneider, and collaborators, 2026: **From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps**. Invited presentation, Risk I — Adaptation Risk, State of the Art, *Climate Adaptation: Risk Analysis and Governance Uptake*, Chinese University of Hong Kong, Hong Kong, 12 October 2026.
+Mbengue, C.O., T. Schneider, and others, 2026: **From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps**. Lead presentation, Risk I session (Adaptation Risk State of the Art), *Workshop on Climate Adaptation: Risk Analysis and Governance Uptake*, The Chinese University of Hong Kong, Hong Kong, October 12, 2026.
 
 Mbengue, C.O., 2022: **Climate Modeling 2.0: An introduction to the CliMA ESM**, Water Utility Climate Alliance, USA.
 
@@ -38,7 +38,9 @@ Mbengue, C.O., T. Schneider, K. Pressel, C.M. Kaul, Z. Tan, J. Teixeira, 2014: *
 
 Mbengue, C.O., T. Schneider, K. Pressel, C.M. Kaul, Z. Tan, J. Teixeira, 2014: **Investigating the diurnal phase of tropical precipitation using a hierarchy of models**, *International Scientific Conference on the Global Water and Energy Cycle*, 7-13, The Hague, The Netherlands.
 
-Mbengue, C.O., and T. Schneider, 2013: **Storm track response to climate change: insights from simulations using an idealized dry GCM**, *EGU General Assembly Conference Abstracts*, 15, 3454, Vienna, Austria.Mbengue, C.O., and T. Schneider, 2013: **Storm track response to climate change: insights from simulations using an idealized dry GCM**, *DACA-13*, 710, Davos, Switzerland.
+Mbengue, C.O., and T. Schneider, 2013: **Storm track response to climate change: insights from simulations using an idealized dry GCM**, *EGU General Assembly Conference Abstracts*, 15, 3454, Vienna, Austria.
+
+Mbengue, C.O., and T. Schneider, 2013: **Storm track response to climate change: insights from simulations using an idealized dry GCM**, *DACA-13*, 710, Davos, Switzerland.
 
 Mbengue, C.O., and T. Schneider, 2013: **An investigation of storm track response to climate change using an idealized dry GCM**. *Atmospheric and Oceanic Fluid Dynamics Conference*, 17.1, Rhode Island, USA.
 
