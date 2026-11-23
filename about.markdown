@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![The Pitons of Saint Lucia](/img/img2.jpg)
+![Cheikh Mbengue in Hong Kong, October 2026](/img/img2.jpg)
 
 I am Cheikh, a climate scientist, trained as an engineer, based in Castries, Saint Lucia. I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech.
 
