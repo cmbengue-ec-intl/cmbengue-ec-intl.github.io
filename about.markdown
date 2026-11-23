@@ -6,7 +6,7 @@ permalink: /about/
 
 ![The Pitons of Saint Lucia](/img/img2.jpg)
 
-I am Cheikh, a climate scientist and engineer based in Castries, Saint Lucia. I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and the Project Manager, a Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech.
+I am Cheikh, a climate scientist, trained as an engineer, based in Castries, Saint Lucia. I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech.
 
 My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions. At CliMA, I led a software team that developed a [web application](https://ecodesign.clima.caltech.edu) that delivers projections of climate design conditions for building design and engineering applications. Recently, I have been exploring avenues in climate risk for small island developing states.
 
