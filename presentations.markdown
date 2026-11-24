@@ -2,9 +2,12 @@
 layout: page
 title: Presentations
 permalink: /presentations/
+description: "Invited talks, seminars and conference presentations by Cheikh Oumar Mbengue, including the October 2026 CUHK climate-adaptation workshop."
 ---
 
 ## Invited Presentations, Seminars, and Industry Talks
+
+<span id="cuhk-2026"></span>
 
 Mbengue, C.O., T. Schneider, and others, 2026: **From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps**. Lead presentation, Risk I session (Adaptation Risk State of the Art), *Workshop on Climate Adaptation: Risk Analysis and Governance Uptake*, The Chinese University of Hong Kong, Hong Kong, October 12, 2026.
 
