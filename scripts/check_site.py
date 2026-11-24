@@ -14,10 +14,12 @@ class Page(HTMLParser):
     def __init__(self):
         super().__init__()
         self.links = []
+        self.ids = set()
         self.main_count = 0
         self.h1_count = 0
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        if attrs.get('id'): self.ids.add(attrs['id'])
         if tag == 'main': self.main_count += 1
         if tag == 'h1': self.h1_count += 1
         if tag == 'img' and 'alt' not in attrs: errors.append(f'{page}: image missing alt')
@@ -32,11 +34,18 @@ for page in pages:
     base = '/' + page.relative_to(root).as_posix()
     for link in parsed.links:
         url = urlsplit(link)
-        if url.scheme or url.netloc or not url.path: continue
+        if url.scheme or url.netloc: continue
         path = unquote(urlsplit(urljoin(base, link)).path).lstrip('/')
         target = root / path
         if not target.is_file() and not (target / 'index.html').is_file():
             errors.append(f'{page.relative_to(root)}: missing local target {link}')
+        elif url.fragment:
+            target_page = target if target.is_file() else target / 'index.html'
+            if target_page.suffix == '.html':
+                destination = Page()
+                destination.feed(target_page.read_text())
+                if unquote(url.fragment) not in destination.ids:
+                    errors.append(f'{page.relative_to(root)}: missing fragment {link}')
 if errors:
     raise SystemExit('\n'.join(errors))
-print(f'PASS: {len(pages)} HTML pages; local links, image alt attributes, and page landmarks.')
+print(f'PASS: {len(pages)} HTML pages; local links/fragments, image alt attributes, and page landmarks.')

@@ -2,13 +2,14 @@
 layout: page
 title: Research
 permalink: /research/
+description: "Research by Cheikh Oumar Mbengue on storm tracks, tropical-extratropical interactions, climate modeling and scientific software."
 ---
 
 ## Climate Modeling and Scientific Software
 
 At CliMA, I am the project manager for the development of the CliMA Earth system model, and I lead the work on its model products. I am also contributing to a study, in preparation, that uses a Julia-based climate model across hierarchies of scale and complexity.
 
-I am a coauthor of the 2026 paper [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014). The author-contribution statement in the paper lists my role as project administration.
+My work at CliMA includes project management for the atmosphere model described in our 2026 paper, [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014).
 
 ## Midlatitude Storm Tracks and Climate Change
 
@@ -16,14 +17,14 @@ I am a coauthor of the 2026 paper [The Climate Modeling Alliance Atmosphere Dyna
 A: Midlatitude storm tracks are regions with the most intense extratropical cyclones and anticyclones. Storm tracks are important because most poleward energy and angular momentum transport in midlatitudes occurs there. Put another way, the storm tracks control the weather and climate of Earth's mid-latitudes.
 
 **Q: How will climate change affect storm tracks?**
-A: The storm-track response to climate change is complex; for example, the response varies by season (or timescale) and location. Nonetheless, there is agreement among climate models of varying complexity that the mean storm-track position in each hemisphere will shift towards its respective pole as the climate warms in response to increases in greenhouse gases.
+A: The storm-track response to climate change varies by season, timescale, hemisphere and region. The [IPCC AR6 Working Group I Technical Summary](https://www.ipcc.ch/report/ar6/wg1/chapter/technical-summary/) assesses a likely poleward shift and strengthening of the Southern Hemisphere midlatitude jet, with a strengthening storm track, by 2100 under high CO₂ emissions. It assigns low confidence to projected poleward shifts of Northern Hemisphere jets and storm tracks because of internal variability and differences among models.
 
 **Q: Why should we care about changes in the storm tracks?**
 A: Changes in the storm tracks have broad implications for water availability, energy production, and severe weather patterns in mid-latitudes.
 
 ### Summary of Storm Track Research
 
-Although the storm-track response to climate change is important, the dynamics underpinning storm-track shifts still need to be better understood. Therefore, we seek to understand what controls storm-track shifts. To answer this question, we use models of varying complexity to test and develop theories of storm-track changes. To that end, we have demonstrated that deep-tropical forcing can shift storm tracks and that dry dynamics explain a substantial proportion of storm-track shifts (Mbengue and Schneider, 2013). Further progress was made when we used a novel method to show that changes in near-surface meridional temperature gradients dominate storm-track shifts (Mbengue and Schneider, 2017). These results are corroborated by Baker et al. (2017). Building on these results, we develop a simple conceptual model that shows how convection in the tropics can lead to storm-track shifts, especially in circumstances where changes in deep tropical convective stability suffice to shift the storm tracks.
+Although the storm-track response to climate change is important, the dynamics underpinning storm-track shifts still need to be better understood. Therefore, we seek to understand what controls storm-track shifts. To answer this question, we use models of varying complexity to test and develop theories of storm-track changes. To that end, we have demonstrated that deep-tropical forcing can shift storm tracks and that dry dynamics explain a substantial proportion of storm-track shifts ([Mbengue and Schneider, 2013](https://doi.org/10.1175/JCLI-D-13-00404.1)). Further progress was made when we used a novel method to show that changes in near-surface meridional temperature gradients dominate storm-track shifts ([Mbengue and Schneider, 2017](https://doi.org/10.1175/JAS-D-15-0267.1)). These results are corroborated by Baker et al. (2017). Building on these results, [Mbengue and Schneider (2018)](https://doi.org/10.1175/JAS-D-17-0098.1) developed a simple conceptual model that shows how convection in the tropics can lead to storm-track shifts, especially in circumstances where changes in deep tropical convective stability suffice to shift the storm tracks.
 
 ![Storm-track response to climate change](/img/img3.png)
 

@@ -2,7 +2,7 @@
 <html lang="en">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">{% seo %}{% feed_meta %}<link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}"></head>
 <body><a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header"><div class="shell"><a class="brand" href="{{ '/' | relative_url }}">Cheikh Mbengue<span>Climate scientist</span></a>
+<header class="site-header"><div class="shell"><a class="brand" href="{{ '/' | relative_url }}">{{ site.author }}<span>Climate scientist</span></a>
 <nav aria-label="Main navigation">{% for path in site.header_pages %}{% assign item = site.pages | where: 'path', path | first %}<a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}</nav></div></header>
 <main id="main" class="shell" tabindex="-1">{{ content }}</main>
 <footer><div class="shell footer-inner"><p>Cheikh Oumar Mbengue<br>Castries, Saint Lucia</p><nav aria-label="Contact links"><a href="mailto:{{ site.email }}">Email</a><a href="https://www.linkedin.com/in/cmbengue/">LinkedIn</a><a href="https://github.com/cmbengue-ec-intl">GitHub</a><a href="https://scholar.google.com/citations?user=oHootLcAAAAJ&amp;hl=en">Google Scholar</a></nav></div></footer></body></html>

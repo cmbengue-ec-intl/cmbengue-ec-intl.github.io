@@ -18,10 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cheikh O Mbengue
-email: cmbengue@ec-intl.com
+title: Cheikh Oumar Mbengue
+author: Cheikh Oumar Mbengue
+portrait:
+  path: /img/img1.jpg
+  alt: Cheikh Oumar Mbengue
+  width: 443
+  height: 423
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /img/img1.jpg
+        alt: Cheikh Oumar Mbengue
+        width: 443
+        height: 423
+email: cmbengue@cmbengue.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Climate scientist in Castries, Saint Lucia.
+  Climate scientist and engineer by training in Castries, Saint Lucia.
+  Founder and Managing Director of ECI; Project Manager, Senior Research Scientist
+  and Model Products Lead at CliMA, Caltech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cmbengue-ec-intl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: combengue
@@ -78,3 +95,4 @@ exclude:
   - Gemfile.lock
   - vendor
   - scripts
+  - docs

@@ -2,15 +2,28 @@
 layout: page
 title: Publications
 permalink: /publications/
+description: "Peer-reviewed papers and theses by Cheikh Oumar Mbengue, including selected work on storm tracks, atmospheric circulation and the CliMA dynamical core."
 ---
 
-## Peer-reviewed Publications
+## Selected publications
+
+Selected papers from my work at CliMA and my research on atmospheric circulation:
+
+- [CliMA atmosphere dynamical core (2026)](#clima-2026) — project management.
+- [Hadley circulation and storm tracks (2018)](#hadley-2018) — a conceptual model linking tropical circulation and storm tracks.
+- [Storm-track shifts (2017)](#storm-tracks-2017) — a mechanistic study using baroclinic available potential energy.
+
+## Peer-reviewed publications
 
 Links below lead to the publisher or institutional record. Full-text access varies by publication.
 
 ### 2020–present
 
-Yatunin, D., S. Byrne, C. Kawczynski, S. Kandala, G. Bozzola, A. Sridhar, Z. Shen, A. Jaruga, J. Sloan, J. He, D.Z. Huang, V. Barra, R. Chew, A. Boral, Y. Chen, O. Knoth, P. Ullrich, **C. Mbengue**, T. Schneider, 2026: **The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling**. *Journal of Advances in Modeling Earth Systems*, **18**, e2025MS005014.
+<span id="clima-2026"></span>
+
+Yatunin, D., S. Byrne, C. Kawczynski, S. Kandala, G. Bozzola, A. Sridhar, Z. Shen, A. Jaruga, J. Sloan, J. He, D.Z. Huang, V. Barra, R. Chew, A. Boral, Y. Chen, O. Knoth, P. Ullrich, **C. Mbengue**, T. Schneider, 2026: **The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling**. *Journal of Advances in Modeling Earth Systems*, **18**(3), e2025MS005014.
+
+Author contribution: **project administration**.
 
 [**Official Version**](https://doi.org/10.1029/2025MS005014) · [**Open-access PDF**](https://clima.caltech.edu/wp-content/uploads/2026/03/J-Adv-Model-Earth-Syst-2026-Yatunin-The-Climate-Modeling-Alliance-Atmosphere-Dynamical-Core.pdf)
 
@@ -32,13 +45,15 @@ Baker, H.S., T. Woollings, **C.O. Mbengue**, M.R. Allen, C.H. O’Reilly, H. Shi
 
 [**Official Version**](https://journals.ametsoc.org/view/journals/atsc/76/4/jas-d-18-0086.1.xml)
 
-**Mbengue, C.O.**, T. Woollings, H. Dacre, K. Hodges, 2018: **The roles of static stability and tropical-extratropical interactions in the summer interannual variability of the North Atlantic sector**. *Climate Dynamics*, **52**, 1299, doi:10.1007/s00382-018-4192-5.
+**Mbengue, C.O.**, T. Woollings, H. Dacre, K. Hodges, 2019: **The roles of static stability and tropical-extratropical interactions in the summer interannual variability of the North Atlantic sector**. *Climate Dynamics*, **52**, 1299–1315, doi:10.1007/s00382-018-4192-5. First published online in 2018.
 
 [**Official Version**](https://link.springer.com/article/10.1007/s00382-018-4192-5)
 
 Baker, H.S., **C.O. Mbengue**, T. Woollings, 2018: **Seasonal sensitivity of the Hadley cell and cross-hemispheric responses to diabatic heating in an idealized GCM**. *Geophysical Research Letters*, **45**, 5, 2533-2541, doi: 10.1002/2018GL077013.
 
 [**Official Version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2018GL077013)
+
+<span id="hadley-2018"></span>
 
 **Mbengue, C.O.**, and T. Schneider, 2018: **Linking Hadley circulation and storm tracks in a conceptual model of the atmospheric energy balance**. *Journal of the Atmospheric Sciences*, **75**, 3, 841–856, doi: 10.1175/JAS-D-17-0098.1.
 
@@ -47,6 +62,8 @@ Baker, H.S., **C.O. Mbengue**, T. Woollings, 2018: **Seasonal sensitivity of the
 Baker, H.S., T. Woollings, **C.O. Mbengue**, 2017: **Eddy-driven jet sensitivity to diabatic heating in an idealized GCM**. *Journal of Climate*, **30**, 16, 6413–6431, doi: 10.1175/JCLI-D-16-0864.1.
 
 [**Official Version**](https://journals.ametsoc.org/view/journals/clim/30/16/jcli-d-16-0864.1.xml)
+
+<span id="storm-tracks-2017"></span>
 
 **Mbengue, C.O.**, and T. Schneider, 2017: **Storm track shifts under climate change: toward a mechanistic understanding using baroclinic available potential energy**. *Journal of the Atmospheric Sciences*, **74**, 1, 93-110, doi: 10.1175/JAS-D-15-0267.1.
 

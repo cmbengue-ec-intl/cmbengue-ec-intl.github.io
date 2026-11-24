@@ -7,7 +7,7 @@ Jekyll website published by GitHub Pages from `main`.
 
 ## Local preview
 
-Install the locked dependencies with `bundle install`, then run `bundle exec jekyll serve`. Open the local address printed by Jekyll. Run `bundle exec jekyll build` before proposing a release.
+Install the locked dependencies with `bundle install`, then run `bundle exec jekyll serve`. Open the local address printed by Jekyll. Run `bundle exec jekyll build` and `python3 scripts/check_site.py` before proposing a release. The checker covers local pages, assets, section links, image alternative-text attributes and page landmarks.
 
 ## Publishing
 
