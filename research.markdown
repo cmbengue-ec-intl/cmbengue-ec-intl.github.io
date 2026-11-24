@@ -9,7 +9,7 @@ description: "Research by Cheikh Oumar Mbengue on storm tracks, tropical-extratr
 
 At CliMA, I am the project manager for the development of the CliMA Earth system model, and I lead the work on its model products. I am also contributing to a study, in preparation, that uses a Julia-based climate model across hierarchies of scale and complexity.
 
-I am a coauthor of the 2026 paper [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014). The author-contribution statement in the paper lists my role as project administration.
+My work at CliMA includes project management for the atmosphere model described in our 2026 paper, [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014).
 
 ## Midlatitude Storm Tracks and Climate Change
 

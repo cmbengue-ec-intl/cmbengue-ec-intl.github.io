@@ -7,13 +7,11 @@ description: "Peer-reviewed papers and theses by Cheikh Oumar Mbengue, including
 
 ## Selected publications
 
-Three papers connect my current CliMA work with my earlier research on atmospheric circulation:
+Selected papers from my work at CliMA and my research on atmospheric circulation:
 
-- [CliMA atmosphere dynamical core (2026)](#clima-2026) — my contribution was project administration.
+- [CliMA atmosphere dynamical core (2026)](#clima-2026) — project management.
 - [Hadley circulation and storm tracks (2018)](#hadley-2018) — a conceptual model linking tropical circulation and storm tracks.
 - [Storm-track shifts (2017)](#storm-tracks-2017) — a mechanistic study using baroclinic available potential energy.
-
-The 2017 and 2018 papers predate ECI’s founding in 2020.
 
 ## Peer-reviewed publications
 
@@ -25,7 +23,7 @@ Links below lead to the publisher or institutional record. Full-text access vari
 
 Yatunin, D., S. Byrne, C. Kawczynski, S. Kandala, G. Bozzola, A. Sridhar, Z. Shen, A. Jaruga, J. Sloan, J. He, D.Z. Huang, V. Barra, R. Chew, A. Boral, Y. Chen, O. Knoth, P. Ullrich, **C. Mbengue**, T. Schneider, 2026: **The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling**. *Journal of Advances in Modeling Earth Systems*, **18**(3), e2025MS005014.
 
-The paper’s author-contribution statement lists my role as **project administration**.
+Author contribution: **project administration**.
 
 [**Official Version**](https://doi.org/10.1029/2025MS005014) · [**Open-access PDF**](https://clima.caltech.edu/wp-content/uploads/2026/03/J-Adv-Model-Earth-Syst-2026-Yatunin-The-Climate-Modeling-Alliance-Atmosphere-Dynamical-Core.pdf)
 

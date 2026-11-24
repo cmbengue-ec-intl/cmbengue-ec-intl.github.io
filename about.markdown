@@ -9,7 +9,7 @@ description: "Biography, background and professional service of Dr. Cheikh Oumar
 
 I am Cheikh, a climate scientist, trained as an engineer, based in Castries, Saint Lucia. I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com), and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech.
 
-My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions. At CliMA, I led a software team that developed [ecodesign (Building Engineering Design Tool)](https://ecodesign.clima.caltech.edu/server/), a web application that delivers historical and projected climate design conditions for selected cities. CliMA provides the prototype in collaboration with ECI. Recently, I have been exploring avenues in climate risk for small island developing states.
+My research focuses on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions. At CliMA, I led a software team that developed [ecodesign (Building Engineering Design Tool)](https://ecodesign.clima.caltech.edu/server/), a web application that delivers historical and projected climate design conditions for selected cities. CliMA provides the prototype in collaboration with ECI. I am interested in how climate information can help small island developing states assess climate risks.
 
 ## Background and current work
 
